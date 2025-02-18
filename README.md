@@ -20,4 +20,5 @@ This code implements a basic version of the 2D SIMPLE algorithm for solving simp
 - Another key reference for this work is The Finite Volume Method in Computational Fluid Dynamics: An Advanced Introduction with OpenFOAM® and Matlab®[2].
 
 [1] https://www.bilibili.com/video/BV1Bo4y1s7NZ/?spm_id_from=333.337.search-card.all.click&vd_source=0ed3f9d7c4fbfbf5b11b4dbbe3c1fc20
+
 [2] Moukalled, F., Mangani, L., & Darwish, M. (2016). The finite volume method in computational fluid dynamics: An advanced introduction with OpenFOAM® and Matlab®. Springer.
